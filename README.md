@@ -7,3 +7,6 @@ This project presents custom service injection in Blazor WebAssembly apps with e
 5. Then, created a "AvailableUsers" Blazor component in order to consume the IUserService above.
 5. Finally, the "AvailableUsers" component/page has been called in the side navigation bar 
 of the application. 
+
+https://youtu.be/kSZDMJWFm-c
+
